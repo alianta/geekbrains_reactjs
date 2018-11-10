@@ -1,7 +1,7 @@
 <a href="https://geekbrains.ru/"><img src="https://pbs.twimg.com/profile_images/890184585769885697/CY2mUvB6_400x400.jpg" class="ws-chat-logo-img"></a>
 # GeekBrains
 
-Курс <a href="https://geekbrains.ru/lessons/31342">WEB Developer</a>
+Курс <a href="https://geekbrains.ru/courses/119">ReactJS</a>
 
 > Задание №1
 
