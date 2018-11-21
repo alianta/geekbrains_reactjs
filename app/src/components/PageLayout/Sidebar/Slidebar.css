@@ -1,0 +1,7 @@
+.slidebar-item:hover{
+    background: lightblue;
+    color:blue;
+}
+.slidebar-links, .slidebar-link, .slidebar-item{
+    width: 100%;
+}
